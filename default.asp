@@ -11,8 +11,8 @@
     objCDOSYSCon.Fields.update
 
     Set objCDOSYSMail.Configuration = objCDOSYSCon
-    objCDOSYSMail.From = "eduardo@brancozulu"
-    objCDOSYSMail.To = "eduardo@brancozulu"
+    objCDOSYSMail.From = "eduardo@brancozulu.com.br"
+    objCDOSYSMail.To = "eduardo@brancozulu.com.br"
     objCDOSYSMail.Subject = "Teste de envio"
 
     objCDOSYSMail.HtmlBody = "Mensagem enviada no teste..."
